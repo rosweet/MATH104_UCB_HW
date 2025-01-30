@@ -2,6 +2,7 @@
 
 **MATH 104: Introduction to Analysis** homework archive 
 This repository contains notes for the **MATH 104** course at **UC Berkeley**.
+
 authored by *Heejin Seo*.
 
 ## ⚠️ Disclaimer
